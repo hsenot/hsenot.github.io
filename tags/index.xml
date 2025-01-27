@@ -11,20 +11,69 @@
     </image>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://hsenot.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>3D</title>
-      <link>https://hsenot.github.io/tags/3d/</link>
-      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/tags/3d/</guid>
+      <title>ARUP</title>
+      <link>https://hsenot.github.io/tags/arup/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://hsenot.github.io/tags/arup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AURIN</title>
+      <link>https://hsenot.github.io/tags/aurin/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://hsenot.github.io/tags/aurin/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Viz</title>
       <link>https://hsenot.github.io/tags/data-viz/</link>
-      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://hsenot.github.io/tags/data-viz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EV</title>
+      <link>https://hsenot.github.io/tags/ev/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://hsenot.github.io/tags/ev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hackathon</title>
+      <link>https://hsenot.github.io/tags/hackathon/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://hsenot.github.io/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Melbourne</title>
+      <link>https://hsenot.github.io/tags/melbourne/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://hsenot.github.io/tags/melbourne/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Data</title>
+      <link>https://hsenot.github.io/tags/open-data/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://hsenot.github.io/tags/open-data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Solar</title>
+      <link>https://hsenot.github.io/tags/solar/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://hsenot.github.io/tags/solar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3D</title>
+      <link>https://hsenot.github.io/tags/3d/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://hsenot.github.io/tags/3d/</guid>
       <description></description>
     </item>
     <item>
@@ -91,31 +140,10 @@
       <description></description>
     </item>
     <item>
-      <title>Melbourne</title>
-      <link>https://hsenot.github.io/tags/melbourne/</link>
-      <pubDate>Thu, 11 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/tags/melbourne/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Open Data</title>
-      <link>https://hsenot.github.io/tags/open-data/</link>
-      <pubDate>Thu, 11 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/tags/open-data/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>RMIT</title>
       <link>https://hsenot.github.io/tags/rmit/</link>
       <pubDate>Wed, 11 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://hsenot.github.io/tags/rmit/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Solar</title>
-      <link>https://hsenot.github.io/tags/solar/</link>
-      <pubDate>Wed, 11 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/tags/solar/</guid>
       <description></description>
     </item>
     <item>
