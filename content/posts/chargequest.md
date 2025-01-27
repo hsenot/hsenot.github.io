@@ -3,7 +3,7 @@ author: "Herve Senot"
 title: "AURIN+ARUP hackathon: ChargeQuest (1st prize)"
 date: "2024-03-11"
 description: "1-day team project: public EV charging rolloout optimisation"
-tags: ["open data", "data viz", "hackathon", "Melbourne", "solar", "EV", "AURIN", "ARUP"]
+tags: ["open data", "data viz", "hackathon", "Melbourne", "energy", "solar", "EV", "AURIN", "ARUP", "RMIT", "collaboration"]
 cover:
   image: images/chargequest/0.png
   caption: ""
