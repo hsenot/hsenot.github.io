@@ -66,7 +66,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "🧠 + 🌟 = data with purpose"
+    Title: "Data + Purpose"
     Content: We're interested in data projects that positively affect the world, especially around environmental sustainability and social justice. Renewable energy ☀️💨🌊, low-carbon transport 🚲, circular economy ☯️, short food supply chains 🍎, low-tech solutions 🔧, civic tech ✊, ... If that sounds like you too, let's connect!
 
   socialIcons:
