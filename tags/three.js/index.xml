@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Three.js on CarbonGIS</title>
     <link>https://hsenot.github.io/tags/three.js/</link>
     <description>Recent content in Three.js on CarbonGIS</description>
-    <image>
-      <title>CarbonGIS</title>
-      <url>https://hsenot.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://hsenot.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.142.0</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://hsenot.github.io/tags/three.js/index.xml" rel="self" type="application/rss+xml" />
@@ -18,14 +13,14 @@
       <link>https://hsenot.github.io/posts/heatmap/</link>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://hsenot.github.io/posts/heatmap/</guid>
-      <description>3D model of smart meter data consumption</description>
+      <description>&lt;p&gt;Part of an experiment in using three.js and color accessibility, this data visualisation offers an immersive 3D representation of smart meter over a month, allowing to feel the data in all its dimensions: hourly and daily variations, peaks and troughs of consumptions, anomalies and routines.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hsenot.github.io/images/heatmap/1.jpeg&#34; alt=&#34;smart meter 3D data visualization&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wind farm 3D model</title>
       <link>https://hsenot.github.io/posts/3dwindfarm/</link>
       <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
       <guid>https://hsenot.github.io/posts/3dwindfarm/</guid>
-      <description>3D model of a wind farm</description>
+      <description>&lt;p&gt;Part of an experiment in using three.js, this data visualisation recreates the layout of a Victorian wind farm, along with the terrain textured 4 ways (1 per season).&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hsenot.github.io/images/windfarm/1.jpeg&#34; alt=&#34;wind farm 3D data visualization&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

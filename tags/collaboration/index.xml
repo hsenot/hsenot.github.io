@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collaboration on CarbonGIS</title>
     <link>https://hsenot.github.io/tags/collaboration/</link>
     <description>Recent content in Collaboration on CarbonGIS</description>
-    <image>
-      <title>CarbonGIS</title>
-      <url>https://hsenot.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://hsenot.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.142.0</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 Mar 2013 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://hsenot.github.io/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +13,7 @@
       <link>https://hsenot.github.io/posts/empower.me/</link>
       <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
       <guid>https://hsenot.github.io/posts/empower.me/</guid>
-      <description>A social entrepreneurship grant enables a smart meter data visualisation platform</description>
+      <description>&lt;p&gt;Developed while studying Sustainable Energy Systems at RMIT, and with the help of a social entrepreneurship grant from RMIT Social Entreprise group, this platform aims at visualising data that by-large remains invisible in our society: energy data.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hsenot.github.io/images/empowerme/1.png&#34; alt=&#34;empower.me platform data visualization&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;These visualisations are linking the personal - smart meter data - to the collective - national energy market and solar data. Smart meter data can be uploaded to the platform for an interactive heatmap visualisation, revealing patterns and anomalies.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

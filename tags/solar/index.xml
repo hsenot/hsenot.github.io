@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Solar on CarbonGIS</title>
     <link>https://hsenot.github.io/tags/solar/</link>
     <description>Recent content in Solar on CarbonGIS</description>
-    <image>
-      <title>CarbonGIS</title>
-      <url>https://hsenot.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://hsenot.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.142.0</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 11 Sep 2013 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://hsenot.github.io/tags/solar/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +13,7 @@
       <link>https://hsenot.github.io/posts/energyplus/</link>
       <pubDate>Wed, 11 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://hsenot.github.io/posts/energyplus/</guid>
-      <description>3D &#43; solar modelling for solar PV suitability</description>
+      <description>&lt;p&gt;Part of a project for the Sustainable Energy Systems course at RMIT, this data visualisation quantifies the solar potential of an unusual roof configuration (a retirement home) by running irradiance simulation in the EnergyPlus engine, on a building envelope modelled in SketchUp.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hsenot.github.io/images/energyplus/1.jpeg&#34; alt=&#34;seasonal solar irradiance data visualization&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

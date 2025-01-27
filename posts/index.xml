@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on CarbonGIS</title>
     <link>https://hsenot.github.io/posts/</link>
     <description>Recent content in Posts on CarbonGIS</description>
-    <image>
-      <title>CarbonGIS</title>
-      <url>https://hsenot.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://hsenot.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.142.0</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://hsenot.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -18,42 +13,42 @@
       <link>https://hsenot.github.io/posts/heatmap/</link>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://hsenot.github.io/posts/heatmap/</guid>
-      <description>3D model of smart meter data consumption</description>
+      <description>&lt;p&gt;Part of an experiment in using three.js and color accessibility, this data visualisation offers an immersive 3D representation of smart meter over a month, allowing to feel the data in all its dimensions: hourly and daily variations, peaks and troughs of consumptions, anomalies and routines.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hsenot.github.io/images/heatmap/1.jpeg&#34; alt=&#34;smart meter 3D data visualization&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Twitter ego-network</title>
       <link>https://hsenot.github.io/posts/twitterego/</link>
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://hsenot.github.io/posts/twitterego/</guid>
-      <description>Visualising the network of followers for a Twitter handle</description>
+      <description>&lt;p&gt;Exploring the users following a given Twitter user (CircularEconomy), this data visualisation groups similar followers into broad communities: corporate responsibility, international NGOs &amp;amp; think tanks, startup and thought leaders, environmental activists, &amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hsenot.github.io/images/twitterego/1.png&#34; alt=&#34;Twitter ego-network&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wind farm 3D model</title>
       <link>https://hsenot.github.io/posts/3dwindfarm/</link>
       <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
       <guid>https://hsenot.github.io/posts/3dwindfarm/</guid>
-      <description>3D model of a wind farm</description>
+      <description>&lt;p&gt;Part of an experiment in using three.js, this data visualisation recreates the layout of a Victorian wind farm, along with the terrain textured 4 ways (1 per season).&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hsenot.github.io/images/windfarm/1.jpeg&#34; alt=&#34;wind farm 3D data visualization&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>PacBike</title>
       <link>https://hsenot.github.io/posts/pacbike/</link>
       <pubDate>Thu, 11 Sep 2014 00:00:00 +0000</pubDate>
       <guid>https://hsenot.github.io/posts/pacbike/</guid>
-      <description>Gamified visualization of the bike share scheme data</description>
+      <description>&lt;p&gt;For Melbourne&amp;rsquo;s White Night 2014, we set out to illustrate the dataset of the Melbourne Bike Share scheme. Each docking station of the scheme reports the number of available docks on a (near) real-time basis. We tracked this data over several month and overlaid it on a grid-like representation of the Hoddle grid - those were the ghosts 👻. A wifi router was setup to allow members of the public to control PacMan from their phone, eat (healthy) fruit  along the Melbourne laneways and avoid these pesky ghosts by predicting the most used bike routes in the CBD.&lt;/p&gt;</description>
     </item>
     <item>
       <title>3D solar yield simulation</title>
       <link>https://hsenot.github.io/posts/energyplus/</link>
       <pubDate>Wed, 11 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://hsenot.github.io/posts/energyplus/</guid>
-      <description>3D &#43; solar modelling for solar PV suitability</description>
+      <description>&lt;p&gt;Part of a project for the Sustainable Energy Systems course at RMIT, this data visualisation quantifies the solar potential of an unusual roof configuration (a retirement home) by running irradiance simulation in the EnergyPlus engine, on a building envelope modelled in SketchUp.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hsenot.github.io/images/energyplus/1.jpeg&#34; alt=&#34;seasonal solar irradiance data visualization&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>empower.me</title>
       <link>https://hsenot.github.io/posts/empower.me/</link>
       <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
       <guid>https://hsenot.github.io/posts/empower.me/</guid>
-      <description>A social entrepreneurship grant enables a smart meter data visualisation platform</description>
+      <description>&lt;p&gt;Developed while studying Sustainable Energy Systems at RMIT, and with the help of a social entrepreneurship grant from RMIT Social Entreprise group, this platform aims at visualising data that by-large remains invisible in our society: energy data.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hsenot.github.io/images/empowerme/1.png&#34; alt=&#34;empower.me platform data visualization&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;These visualisations are linking the personal - smart meter data - to the collective - national energy market and solar data. Smart meter data can be uploaded to the platform for an interactive heatmap visualisation, revealing patterns and anomalies.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
