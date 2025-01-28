@@ -76,6 +76,8 @@ params:
       url: "https://linkedin.com/in/hsenot"
     - name: github
       url: "https://github.com/hsenot"
+    - name: slack
+      url: "https://carbongis.slack.com"
 
   analytics:
     google:

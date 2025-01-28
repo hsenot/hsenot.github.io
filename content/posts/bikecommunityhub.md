@@ -17,4 +17,4 @@ This entry to the apps4NSW hackathon was lead by the idea of combining multiple 
 
 Thanks to [Paul McTier](https://www.linkedin.com/in/paul-mactier-5b008b172/) for the front-end/backend collaboration!
 
-Since then, [Anthony Aisenberg](https://www.linkedin.com/in/anthony-aisenberg-30192728/) has had a much more ambitious vision based on the same insight and has created the excellent CrowdSpot platform to address this knowledge gap and improve cycling safety.
+Since then, [Anthony Aisenberg](https://www.linkedin.com/in/anthony-aisenberg-30192728/) has had a much more ambitious vision based on the same insight and has created the excellent [CrowdSpot](https://crowdspot.com.au/) platform to address this knowledge gap and improve cycling safety.
