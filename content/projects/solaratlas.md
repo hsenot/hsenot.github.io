@@ -1,8 +1,8 @@
 ---
 author: "Herve Senot"
-title: "empower.me"
+title: "Solar Atlas"
 date: "2016-03-11"
-description: "A social entrepreneurship grant enables a smart meter data visualisation platform"
+description: "A highly granular solar PV suitability web tool for large areas"
 tags: ["energy", "solar", "data viz", "collaboration", "urbanEP", "NSW", "LiDAR"]
 cover:
   image: images/solaratlas/0.png
