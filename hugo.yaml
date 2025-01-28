@@ -28,6 +28,12 @@ params:
 
   ShowReadingTime: true
   ShowShareButtons: true
+  ShareButtons:
+    - linkedin
+    - facebook
+    - reddit
+    - whatsapp
+    - email
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -66,7 +72,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Data for good"
+    Title: "Data. For. Good"
     Content: We're interested in data projects that positively affect the world, especially around environmental sustainability and social justice. Renewable energy ☀️💨🌊, low-carbon transport 🚲, circular economy ☯️, short food supply chains 🍎, low-tech solutions 🔧, civic tech ✊, ... If that sounds like you too, let's connect!
 
   socialIcons:
@@ -74,10 +80,10 @@ params:
       url: "mailto:hsenot@gmail.com"
     - name: linkedin
       url: "https://linkedin.com/in/hsenot"
-    - name: github
-      url: "https://github.com/hsenot"
     - name: slack
       url: "https://carbongis.slack.com"
+    - name: github
+      url: "https://github.com/hsenot"
 
   analytics:
     google:
@@ -106,14 +112,18 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: posts
-      name: posts
-      url: /posts/
-      weight: 10
+    #- identifier: posts
+    #  name: posts
+    #  url: /posts/
+    #  weight: 10
+    - identifier: projects
+      name: projects
+      url: /projects/
+      weight: 20
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 20
+      weight: 30
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
