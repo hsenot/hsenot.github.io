@@ -14,11 +14,11 @@
     <lastBuildDate>Fri, 11 Mar 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://hsenot.github.io/tags/nsw/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>empower.me</title>
+      <title>Solar Atlas</title>
       <link>https://hsenot.github.io/projects/solaratlas/</link>
       <pubDate>Fri, 11 Mar 2016 00:00:00 +0000</pubDate>
       <guid>https://hsenot.github.io/projects/solaratlas/</guid>
-      <description>A social entrepreneurship grant enables a smart meter data visualisation platform</description>
+      <description>A highly granular solar PV suitability web tool for large areas</description>
     </item>
   </channel>
 </rss>
