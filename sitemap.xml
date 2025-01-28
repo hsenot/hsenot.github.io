@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hsenot.github.io/about/</loc>
-    <lastmod>2025-01-27T12:00:00+00:00</lastmod>
+    <loc>https://hsenot.github.io/posts/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hsenot.github.io/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hsenot.github.io/about/</loc>
     <lastmod>2025-01-27T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hsenot.github.io/tags/arup/</loc>
@@ -15,6 +18,9 @@
     <lastmod>2024-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hsenot.github.io/posts/chargequest/</loc>
+    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hsenot.github.io/projects/chargequest/</loc>
     <lastmod>2024-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hsenot.github.io/tags/collaboration/</loc>
@@ -38,7 +44,7 @@
     <loc>https://hsenot.github.io/tags/open-data/</loc>
     <lastmod>2024-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hsenot.github.io/posts/</loc>
+    <loc>https://hsenot.github.io/projects/</loc>
     <lastmod>2024-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hsenot.github.io/tags/rmit/</loc>
@@ -62,6 +68,9 @@
     <loc>https://hsenot.github.io/posts/heatmap/</loc>
     <lastmod>2019-09-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://hsenot.github.io/projects/heatmap/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hsenot.github.io/tags/three.js/</loc>
     <lastmod>2019-09-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -77,10 +86,16 @@
     <loc>https://hsenot.github.io/posts/twitterego/</loc>
     <lastmod>2018-09-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://hsenot.github.io/projects/twitterego/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hsenot.github.io/tags/wind/</loc>
     <lastmod>2017-09-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hsenot.github.io/posts/3dwindfarm/</loc>
+    <lastmod>2017-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hsenot.github.io/projects/3dwindfarm/</loc>
     <lastmod>2017-09-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hsenot.github.io/tags/gamification/</loc>
@@ -89,13 +104,25 @@
     <loc>https://hsenot.github.io/posts/pacbike/</loc>
     <lastmod>2014-09-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://hsenot.github.io/projects/pacbike/</loc>
+    <lastmod>2014-09-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hsenot.github.io/posts/energyplus/</loc>
+    <lastmod>2013-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hsenot.github.io/projects/energyplus/</loc>
     <lastmod>2013-09-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hsenot.github.io/posts/empower.me/</loc>
     <lastmod>2013-03-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://hsenot.github.io/projects/empower.me/</loc>
+    <lastmod>2013-03-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hsenot.github.io/posts/bikecommunityhub/</loc>
+    <lastmod>2009-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hsenot.github.io/projects/bikecommunityhub/</loc>
     <lastmod>2009-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hsenot.github.io/tags/cycling/</loc>

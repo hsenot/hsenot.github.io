@@ -21,10 +21,24 @@
       <description>1-day team project: public EV charging rolloout optimisation</description>
     </item>
     <item>
+      <title>AURIN&#43;ARUP hackathon: ChargeQuest (1st prize)</title>
+      <link>https://hsenot.github.io/projects/chargequest/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://hsenot.github.io/projects/chargequest/</guid>
+      <description>1-day team project: public EV charging rolloout optimisation</description>
+    </item>
+    <item>
       <title>Smart meter data 3D heatmap</title>
       <link>https://hsenot.github.io/posts/heatmap/</link>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://hsenot.github.io/posts/heatmap/</guid>
+      <description>3D model of smart meter data consumption</description>
+    </item>
+    <item>
+      <title>Smart meter data 3D heatmap</title>
+      <link>https://hsenot.github.io/projects/heatmap/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://hsenot.github.io/projects/heatmap/</guid>
       <description>3D model of smart meter data consumption</description>
     </item>
     <item>
@@ -35,6 +49,13 @@
       <description>3D model of a wind farm</description>
     </item>
     <item>
+      <title>Wind farm 3D model</title>
+      <link>https://hsenot.github.io/projects/3dwindfarm/</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://hsenot.github.io/projects/3dwindfarm/</guid>
+      <description>3D model of a wind farm</description>
+    </item>
+    <item>
       <title>3D solar yield simulation</title>
       <link>https://hsenot.github.io/posts/energyplus/</link>
       <pubDate>Wed, 11 Sep 2013 00:00:00 +0000</pubDate>
@@ -42,10 +63,24 @@
       <description>3D &#43; solar modelling for solar PV suitability</description>
     </item>
     <item>
+      <title>3D solar yield simulation</title>
+      <link>https://hsenot.github.io/projects/energyplus/</link>
+      <pubDate>Wed, 11 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://hsenot.github.io/projects/energyplus/</guid>
+      <description>3D &#43; solar modelling for solar PV suitability</description>
+    </item>
+    <item>
       <title>empower.me</title>
       <link>https://hsenot.github.io/posts/empower.me/</link>
       <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
       <guid>https://hsenot.github.io/posts/empower.me/</guid>
+      <description>A social entrepreneurship grant enables a smart meter data visualisation platform</description>
+    </item>
+    <item>
+      <title>empower.me</title>
+      <link>https://hsenot.github.io/projects/empower.me/</link>
+      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://hsenot.github.io/projects/empower.me/</guid>
       <description>A social entrepreneurship grant enables a smart meter data visualisation platform</description>
     </item>
   </channel>

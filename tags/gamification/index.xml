@@ -20,5 +20,12 @@
       <guid>https://hsenot.github.io/posts/pacbike/</guid>
       <description>Gamified visualization of the bike share scheme data</description>
     </item>
+    <item>
+      <title>PacBike</title>
+      <link>https://hsenot.github.io/projects/pacbike/</link>
+      <pubDate>Thu, 11 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://hsenot.github.io/projects/pacbike/</guid>
+      <description>Gamified visualization of the bike share scheme data</description>
+    </item>
   </channel>
 </rss>

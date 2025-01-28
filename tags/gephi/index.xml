@@ -20,5 +20,12 @@
       <guid>https://hsenot.github.io/posts/twitterego/</guid>
       <description>Visualising the network of followers for a Twitter handle</description>
     </item>
+    <item>
+      <title>Twitter ego-network</title>
+      <link>https://hsenot.github.io/projects/twitterego/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://hsenot.github.io/projects/twitterego/</guid>
+      <description>Visualising the network of followers for a Twitter handle</description>
+    </item>
   </channel>
 </rss>
