@@ -2,7 +2,7 @@
 baseURL: "https://hsenot.github.io/"
 title: CarbonGIS
 pagination:
-  pagerSize: 3
+  pagerSize: 10
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -51,7 +51,7 @@ params:
   # Enable "normal" mode to show content + post list
   layout: "normal"
   # Set the section where posts are stored
-  mainSections: ["posts"]
+  mainSections: ["posts", "projects"]
   # Number of recent posts to show
   ShowRecent: true
   RecentPostsCount: 5
