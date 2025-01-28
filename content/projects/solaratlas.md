@@ -15,4 +15,4 @@ Developed in response to a competitive tender by the NSW government to provide a
 
 ![solar atlas platform](/images/solaratlas/1.png)
 
-The Solar Atlas platform is a collaboration with [UrbanEP](https://www.urbanep.com.au/)'s [Nathan Toovey](https://www.linkedin.com/in/nathan-toovey-98448ab/) and [Nathan Malin](https://www.linkedin.com/in/nathan-malin-a3989521/).
+The Solar Atlas platform is a collaboration with [UrbanEP](https://www.urbanep.com.au/)'s [Nathan Toovey](https://www.linkedin.com/in/nathan-toovey-98448ab/) and [Nathan Malin](https://www.linkedin.com/in/nathan-malin-a3989521/). Their website has an extensive [write-up](https://www.urbanep.com.au/projects/mapping-urban-solar-potential) of the project.
