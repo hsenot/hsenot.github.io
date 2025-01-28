@@ -11,63 +11,23 @@
     </image>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://hsenot.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AURIN&#43;ARUP hackathon: ChargeQuest (1st prize)</title>
-      <link>https://hsenot.github.io/posts/chargequest/</link>
-      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/posts/chargequest/</guid>
-      <description>1-day team project: public EV charging rolloout optimisation</description>
-    </item>
-    <item>
-      <title>Smart meter data 3D heatmap</title>
-      <link>https://hsenot.github.io/posts/heatmap/</link>
-      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/posts/heatmap/</guid>
-      <description>3D model of smart meter data consumption</description>
-    </item>
-    <item>
-      <title>Twitter ego-network</title>
-      <link>https://hsenot.github.io/posts/twitterego/</link>
-      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/posts/twitterego/</guid>
-      <description>Visualising the network of followers for a Twitter handle</description>
-    </item>
-    <item>
-      <title>Wind farm 3D model</title>
-      <link>https://hsenot.github.io/posts/3dwindfarm/</link>
-      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/posts/3dwindfarm/</guid>
-      <description>3D model of a wind farm</description>
-    </item>
-    <item>
-      <title>PacBike</title>
-      <link>https://hsenot.github.io/posts/pacbike/</link>
-      <pubDate>Thu, 11 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/posts/pacbike/</guid>
-      <description>Gamified visualization of the bike share scheme data</description>
-    </item>
-    <item>
-      <title>3D solar yield simulation</title>
-      <link>https://hsenot.github.io/posts/energyplus/</link>
-      <pubDate>Wed, 11 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/posts/energyplus/</guid>
-      <description>3D &#43; solar modelling for solar PV suitability</description>
-    </item>
-    <item>
-      <title>empower.me</title>
-      <link>https://hsenot.github.io/posts/empower.me/</link>
-      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/posts/empower.me/</guid>
-      <description>A social entrepreneurship grant enables a smart meter data visualisation platform</description>
-    </item>
-    <item>
-      <title>apps4NSW hackathon: Bike Community Hub (2nd prize)</title>
-      <link>https://hsenot.github.io/posts/bikecommunityhub/</link>
-      <pubDate>Wed, 11 Mar 2009 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/posts/bikecommunityhub/</guid>
-      <description>Team project: community-contributed cycling hazards</description>
+      <title>Opening up to a world of possibilities 🌏</title>
+      <link>https://hsenot.github.io/posts/leap-of-faith/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://hsenot.github.io/posts/leap-of-faith/</guid>
+      <description>&lt;p&gt;In these troubled times, there is still the possibility of doing good.&lt;/p&gt;
+&lt;p&gt;The world needs more people working on the hard problems - climate, health, democracy - and fewer on ads, betting, crypto, trading.&lt;/p&gt;
+&lt;p&gt;More open source. Re-useable components standing on the shoulder of previous generations, transparent and accountable.
+More 3rd places to continue weaving community fabric. Repair cafes, libraries, bike workshops, &amp;hellip;
+Shorter food loops. Closing the distance between producers and consumers. Everyone becoming producer themselves.
+More participation in democratic process than just the ballot box. Participatory budgets, community decision-making, &amp;hellip;
+Less energy needed. Better insulated houses, services closer to home.
+Lower carbon transport options. 3rd vehicles (hybrid car/bike), electric bikes for local journeys, &amp;hellip;
+Low-tech solutions.
+Circular economy at scale.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

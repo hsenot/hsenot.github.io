@@ -15,13 +15,6 @@
     <atom:link href="https://hsenot.github.io/tags/open-data/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AURIN&#43;ARUP hackathon: ChargeQuest (1st prize)</title>
-      <link>https://hsenot.github.io/posts/chargequest/</link>
-      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/posts/chargequest/</guid>
-      <description>1-day team project: public EV charging rolloout optimisation</description>
-    </item>
-    <item>
-      <title>AURIN&#43;ARUP hackathon: ChargeQuest (1st prize)</title>
       <link>https://hsenot.github.io/projects/chargequest/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://hsenot.github.io/projects/chargequest/</guid>
@@ -29,24 +22,10 @@
     </item>
     <item>
       <title>PacBike</title>
-      <link>https://hsenot.github.io/posts/pacbike/</link>
-      <pubDate>Thu, 11 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/posts/pacbike/</guid>
-      <description>Gamified visualization of the bike share scheme data</description>
-    </item>
-    <item>
-      <title>PacBike</title>
       <link>https://hsenot.github.io/projects/pacbike/</link>
       <pubDate>Thu, 11 Sep 2014 00:00:00 +0000</pubDate>
       <guid>https://hsenot.github.io/projects/pacbike/</guid>
       <description>Gamified visualization of the bike share scheme data</description>
-    </item>
-    <item>
-      <title>apps4NSW hackathon: Bike Community Hub (2nd prize)</title>
-      <link>https://hsenot.github.io/posts/bikecommunityhub/</link>
-      <pubDate>Wed, 11 Mar 2009 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/posts/bikecommunityhub/</guid>
-      <description>Team project: community-contributed cycling hazards</description>
     </item>
     <item>
       <title>apps4NSW hackathon: Bike Community Hub (2nd prize)</title>

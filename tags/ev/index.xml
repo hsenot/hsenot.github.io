@@ -15,13 +15,6 @@
     <atom:link href="https://hsenot.github.io/tags/ev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AURIN&#43;ARUP hackathon: ChargeQuest (1st prize)</title>
-      <link>https://hsenot.github.io/posts/chargequest/</link>
-      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/posts/chargequest/</guid>
-      <description>1-day team project: public EV charging rolloout optimisation</description>
-    </item>
-    <item>
-      <title>AURIN&#43;ARUP hackathon: ChargeQuest (1st prize)</title>
       <link>https://hsenot.github.io/projects/chargequest/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://hsenot.github.io/projects/chargequest/</guid>

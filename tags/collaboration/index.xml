@@ -15,13 +15,6 @@
     <atom:link href="https://hsenot.github.io/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AURIN&#43;ARUP hackathon: ChargeQuest (1st prize)</title>
-      <link>https://hsenot.github.io/posts/chargequest/</link>
-      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/posts/chargequest/</guid>
-      <description>1-day team project: public EV charging rolloout optimisation</description>
-    </item>
-    <item>
-      <title>AURIN&#43;ARUP hackathon: ChargeQuest (1st prize)</title>
       <link>https://hsenot.github.io/projects/chargequest/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://hsenot.github.io/projects/chargequest/</guid>
@@ -29,24 +22,10 @@
     </item>
     <item>
       <title>empower.me</title>
-      <link>https://hsenot.github.io/posts/empower.me/</link>
-      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/posts/empower.me/</guid>
-      <description>A social entrepreneurship grant enables a smart meter data visualisation platform</description>
-    </item>
-    <item>
-      <title>empower.me</title>
       <link>https://hsenot.github.io/projects/empower.me/</link>
       <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
       <guid>https://hsenot.github.io/projects/empower.me/</guid>
       <description>A social entrepreneurship grant enables a smart meter data visualisation platform</description>
-    </item>
-    <item>
-      <title>apps4NSW hackathon: Bike Community Hub (2nd prize)</title>
-      <link>https://hsenot.github.io/posts/bikecommunityhub/</link>
-      <pubDate>Wed, 11 Mar 2009 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/posts/bikecommunityhub/</guid>
-      <description>Team project: community-contributed cycling hazards</description>
     </item>
     <item>
       <title>apps4NSW hackathon: Bike Community Hub (2nd prize)</title>
