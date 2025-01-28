@@ -112,12 +112,12 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    #- identifier: posts
-    #  name: posts
-    #  url: /posts/
-    #  weight: 10
+    - identifier: posts
+      name: blog
+      url: /posts/
+      weight: 10
     - identifier: projects
-      name: projects
+      name: portfolio
       url: /projects/
       weight: 20
     - identifier: tags
