@@ -1,5 +1,6 @@
 #baseURL: "http://localhost:1313/"
-baseURL: "https://hsenot.github.io/"
+#baseURL: "https://hsenot.github.io/"
+baseURL: "https://www.carbongis.com.au/"
 title: CarbonGIS
 pagination:
   pagerSize: 10
