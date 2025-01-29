@@ -87,8 +87,7 @@ params:
       url: "https://github.com/hsenot"
 
   analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
+    google: "G-4TCQLCV553"
 
   cover:
     hidden: false # hide everywhere but not in structured data
