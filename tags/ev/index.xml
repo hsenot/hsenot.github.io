@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>EV on CarbonGIS</title>
-    <link>https://hsenot.github.io/tags/ev/</link>
+    <link>https://www.carbongis.com.au/tags/ev/</link>
     <description>Recent content in EV on CarbonGIS</description>
     <image>
       <title>CarbonGIS</title>
-      <url>https://hsenot.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://hsenot.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.carbongis.com.au/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carbongis.com.au/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hsenot.github.io/tags/ev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.carbongis.com.au/tags/ev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AURIN&#43;ARUP hackathon: ChargeQuest (1st prize)</title>
-      <link>https://hsenot.github.io/projects/chargequest/</link>
+      <link>https://www.carbongis.com.au/projects/chargequest/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/projects/chargequest/</guid>
+      <guid>https://www.carbongis.com.au/projects/chargequest/</guid>
       <description>1-day team project: public EV charging rolloout optimisation</description>
     </item>
   </channel>

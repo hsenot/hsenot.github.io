@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Welcome to My Portfolio on CarbonGIS</title>
-    <link>https://hsenot.github.io/</link>
+    <link>https://www.carbongis.com.au/</link>
     <description>Recent content in Welcome to My Portfolio on CarbonGIS</description>
     <image>
       <title>CarbonGIS</title>
-      <url>https://hsenot.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://hsenot.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.carbongis.com.au/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carbongis.com.au/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hsenot.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.carbongis.com.au/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Opening up to a world of possibilities 🌏</title>
-      <link>https://hsenot.github.io/posts/leap-of-faith/</link>
+      <link>https://www.carbongis.com.au/posts/leap-of-faith/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/posts/leap-of-faith/</guid>
+      <guid>https://www.carbongis.com.au/posts/leap-of-faith/</guid>
       <description>&lt;p&gt;In these troubled times, there is still the possibility of doing good.&lt;/p&gt;
 &lt;p&gt;The world needs more people working on the hard problems - climate, health, democracy - and fewer on ads, betting, crypto, trading.&lt;/p&gt;
 &lt;p&gt;More open source. Re-useable components standing on the shoulder of previous generations, transparent and accountable.
@@ -31,65 +31,65 @@ Circular economy at scale.&lt;/p&gt;</description>
     </item>
     <item>
       <title>AURIN&#43;ARUP hackathon: ChargeQuest (1st prize)</title>
-      <link>https://hsenot.github.io/projects/chargequest/</link>
+      <link>https://www.carbongis.com.au/projects/chargequest/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/projects/chargequest/</guid>
+      <guid>https://www.carbongis.com.au/projects/chargequest/</guid>
       <description>1-day team project: public EV charging rolloout optimisation</description>
     </item>
     <item>
       <title>Smart meter data 3D heatmap</title>
-      <link>https://hsenot.github.io/projects/heatmap/</link>
+      <link>https://www.carbongis.com.au/projects/heatmap/</link>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/projects/heatmap/</guid>
+      <guid>https://www.carbongis.com.au/projects/heatmap/</guid>
       <description>3D model of smart meter data consumption</description>
     </item>
     <item>
       <title>Twitter ego-network</title>
-      <link>https://hsenot.github.io/projects/twitterego/</link>
+      <link>https://www.carbongis.com.au/projects/twitterego/</link>
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/projects/twitterego/</guid>
+      <guid>https://www.carbongis.com.au/projects/twitterego/</guid>
       <description>Visualising the network of followers for a Twitter handle</description>
     </item>
     <item>
       <title>Wind farm 3D model</title>
-      <link>https://hsenot.github.io/projects/3dwindfarm/</link>
+      <link>https://www.carbongis.com.au/projects/3dwindfarm/</link>
       <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/projects/3dwindfarm/</guid>
+      <guid>https://www.carbongis.com.au/projects/3dwindfarm/</guid>
       <description>3D model of a wind farm</description>
     </item>
     <item>
       <title>Solar Atlas</title>
-      <link>https://hsenot.github.io/projects/solaratlas/</link>
+      <link>https://www.carbongis.com.au/projects/solaratlas/</link>
       <pubDate>Fri, 11 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/projects/solaratlas/</guid>
+      <guid>https://www.carbongis.com.au/projects/solaratlas/</guid>
       <description>A highly granular solar PV suitability web tool for large areas</description>
     </item>
     <item>
       <title>PacBike</title>
-      <link>https://hsenot.github.io/projects/pacbike/</link>
+      <link>https://www.carbongis.com.au/projects/pacbike/</link>
       <pubDate>Thu, 11 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/projects/pacbike/</guid>
+      <guid>https://www.carbongis.com.au/projects/pacbike/</guid>
       <description>Gamified visualization of the bike share scheme data</description>
     </item>
     <item>
       <title>3D solar yield simulation</title>
-      <link>https://hsenot.github.io/projects/energyplus/</link>
+      <link>https://www.carbongis.com.au/projects/energyplus/</link>
       <pubDate>Wed, 11 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/projects/energyplus/</guid>
+      <guid>https://www.carbongis.com.au/projects/energyplus/</guid>
       <description>3D &#43; solar modelling for solar PV suitability</description>
     </item>
     <item>
       <title>empower.me</title>
-      <link>https://hsenot.github.io/projects/empower.me/</link>
+      <link>https://www.carbongis.com.au/projects/empower.me/</link>
       <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/projects/empower.me/</guid>
+      <guid>https://www.carbongis.com.au/projects/empower.me/</guid>
       <description>A social entrepreneurship grant enables a smart meter data visualisation platform</description>
     </item>
     <item>
       <title>apps4NSW hackathon: Bike Community Hub (2nd prize)</title>
-      <link>https://hsenot.github.io/projects/bikecommunityhub/</link>
+      <link>https://www.carbongis.com.au/projects/bikecommunityhub/</link>
       <pubDate>Wed, 11 Mar 2009 00:00:00 +0000</pubDate>
-      <guid>https://hsenot.github.io/projects/bikecommunityhub/</guid>
+      <guid>https://www.carbongis.com.au/projects/bikecommunityhub/</guid>
       <description>Team project: community-contributed cycling hazards</description>
     </item>
   </channel>
