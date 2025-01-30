@@ -24,7 +24,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: CarbonGIS
   description: "Carbon::GIS"
-  keywords: [carbon, GIS, geospatial, geographic, spatial, data, australia, melbourne]
+  keywords: [data, GIS, spatial, location, melbourne, australia, geospatial, geographic]
   author: Hervé Senot
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "2 January 2006"
@@ -76,8 +76,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Data. For. Good"
-    Content: We help organizations use the power of geo data for their projects in renewable energy ☀️, transport systems 🚲, circular economy ☯️ & civic engagement ✊. We use open source tools, appropriate solutions & outcome-based approaches to deliver value quickly. Let's connect and make it happen!
+    Title: "Spatial data for good"
+    Content: We help organizations use the power of location data for their projects in renewable energy ☀️, transport systems 🚲, circular economy ☯️ & civic engagement ✊. We use open source tools, appropriate solutions & outcome-based approaches to deliver value quickly. Let's connect and make it happen!
 
   socialIcons:
     - name: email
