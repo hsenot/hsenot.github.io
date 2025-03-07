@@ -9,7 +9,7 @@
       <url>https://www.carbongis.com.au/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://www.carbongis.com.au/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.142.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.carbongis.com.au/index.xml" rel="self" type="application/rss+xml" />
@@ -91,6 +91,13 @@ Circular economy at scale.&lt;/p&gt;</description>
       <pubDate>Wed, 11 Mar 2009 00:00:00 +0000</pubDate>
       <guid>https://www.carbongis.com.au/projects/bikecommunityhub/</guid>
       <description>Team project: community-contributed cycling hazards</description>
+    </item>
+    <item>
+      <title>City of Melbourne - City Data Analyst</title>
+      <link>https://www.carbongis.com.au/city_of_melbourne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.carbongis.com.au/city_of_melbourne/</guid>
+      <description>&lt;p&gt;Thank you for the opportunity to present some of my city analytics-related work.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
