@@ -9,6 +9,8 @@ cover:
   caption: ""
 ShowToc: true
 TocOpen: true
+summary: The study developed a roll-out strategy for the provision of on-street parking bays based on a hierarchy of parking bay suitability as a function of net solar potential and existing supply deficit.
+
 ---
 
 The study developed a roll-out strategy for the provision of on-street parking bays based on a hierarchy of parking bay suitability as a function of net solar potential and existing supply deficit.

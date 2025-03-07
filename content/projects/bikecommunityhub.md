@@ -9,6 +9,8 @@ cover:
   caption: ""
 ShowToc: true
 TocOpen: true
+summary: A web tool to bring together multiple datasets of interest to the cycling community, including bike routes and reported cycling accidents (VicRoads) along with the ability for cyclists to contribute their own "near misses" and safety hotspots.
+
 ---
 
 This entry to the apps4NSW hackathon was lead by the idea of combining multiple datasets of interest to the cycling community, including bike routes and reported cycling accidents (VicRoads) along with the ability for cyclists to contribute their own "near misses" and safety hotspots. It came from the insight that most cycling accidents or near misses are not reported hence there is a knowledge gap in cycling infrastructure. Local representatives were also highlighted for community members to voice their concerns to them.

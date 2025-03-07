@@ -1,0 +1,36 @@
+{{ define "main" }}
+  <article class="projects">
+    
+    <!-- Intro -->
+    <section class="intro">
+      <h1>{{ .Title }}</h1>
+      <p>{{ .Content }}</p>
+    </section>
+    <br>
+    <!-- Projects List -->
+    <section class="project-list">
+      <h3>Selected Projects</h3>
+      <div class="projects-grid">
+        {{ $featured := .Params.featured_projects }}  <!-- Get the featured list -->
+      
+        {{ range where site.RegularPages "Section" "projects" }}
+          {{ if in $featured .File.BaseFileName }}  <!-- Only show featured projects -->
+            <a href="{{ .RelPermalink }}" class="project-card">
+              <img src="../{{ .Params.cover.image }}" alt="{{ .Title }}" class="project-cover">
+              <div class="project-info">
+                <h3>{{ .Title }}</h3>
+                <p>{{ .Summary }}</p>
+              </div>
+            </a>
+          {{ end }}
+        {{ end }}
+      </div>
+    </section>
+    <br>
+    <!-- Conclusion -->
+    <section class="conclusion">
+      <p>{{ .Params.conclusion }}</p>
+    </section>
+
+  </article>
+{{ end }}

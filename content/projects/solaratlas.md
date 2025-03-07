@@ -9,6 +9,8 @@ cover:
   caption: ""
 ShowToc: true
 TocOpen: true
+summary: The Solar Atlas is a web tool to assess roof suitability for solar PV, at scale (locality / region) and at a high level of granularity allowed by LiDAR data(30cm).
+
 ---
 
 Developed in response to a competitive tender by the NSW government to provide added value for open data, the Solar Atlas is a way to assess roof suitability for solar PV, at scale (locality / region) and at a high level of granularity allowed by LiDAR data(30cm).
